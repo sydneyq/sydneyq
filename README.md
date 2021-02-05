@@ -2,10 +2,10 @@
 
 My name is **Sydney** :sunglasses: and I'm a female (she/her/hers) software engineer graduating from university in May of 2021.
 
-* I'm currently interning at Citigroup :bank: for the summer of 2020.
+* Interned at Citigroup :bank: for the summer of 2020.
 * Check out my [portfolio website](https://sydneyq.github.io/) to get to know me better. :tada:
 
-Believe in yourself. Inspire others. Enjoy life.
+Find what you love. Make friends. Enjoy life.
 
 
 <!--
