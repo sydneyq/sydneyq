@@ -1,6 +1,6 @@
 ## Hey friend! 👋 Here's where the magic :sparkles: happens.
 
-My name is **Sydney** :sunglasses: and I'm a female (she/her/hers) software developer.
+My name is **Sydney** :sunglasses: and I'm a female (she/they) software developer.
 
 * Check out my [portfolio website](https://sydneyq.github.io/) to get to know me better. :tada:
 
