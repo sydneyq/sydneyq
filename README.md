@@ -2,12 +2,12 @@
 
 My name is **Sydney** :sunglasses: and I'm a female (she/they) software developer.
 
-* Check out my [portfolio website](https://sydneyq.github.io/) to get to know me better. :tada:
-
 Find what you love. Make friends. Enjoy life.
 
 
 <!--
+* Check out my [portfolio website](https://sydneyq.github.io/) to get to know me better. :tada:
+
 **sydneyq/sydneyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
